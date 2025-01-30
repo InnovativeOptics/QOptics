@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12408712
-bundleId: 9154849
+bundleId: 9720436
 url: https://inva.shinyapps.io/QOpticsTest/
 version: 1
 asMultiple: FALSE

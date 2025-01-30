@@ -4,6 +4,7 @@ library(tidyverse)
 library(dplyr)
 library(googledrive)
 library(googlesheets4)
+library(DentalLibrary)
 
 options(
   gargle_oauth_email = TRUE,

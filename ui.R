@@ -36,7 +36,9 @@ shinyUI(page_fluid(
                 h5("(800)858.2121 US & CANADA"),
                 h5("(800)288.2669 Local"))))
        ,fluidRow(column(12,align='center',
-                        h2(strong("Search eye protection by selecting a loupe style, and a laser device"))))
+                        h2(strong("Search eye protection by selecting a loupe style, and a laser device"))),
+                 column(12,align='center',
+                        h5(strong("*The user is responsible for confirming their own laser specifcations"))))
   ),
   fluidRow(
     column(

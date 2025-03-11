@@ -5,9 +5,8 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12408712
-bundleId: 9720436
+bundleId: 9925330
 url: https://inva.shinyapps.io/QOpticsTest/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data/Dental_data.xlsx
